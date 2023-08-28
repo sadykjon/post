@@ -1,0 +1,16 @@
+.post_video{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.post_video form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.post_video button{
+    padding: 8px 20px;
+    font-size: 18px;
+}
